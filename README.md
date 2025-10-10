@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
+
+### I'm ZacZe.
+
+- 🔭 I’m currently working on ...
+  - [HandUX](github.com/zacze/handux)
+  - [SyncNotes](github.com/zacze/syncnotes)
+ 
+- 🌱 I’m currently learning ...
+  - Computer Vision
+  - Robotics
 
 <!--
 **ZacZe/ZacZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
