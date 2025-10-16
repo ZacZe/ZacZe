@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ...
   - [HandUX](github.com/zacze/handux)
-  - [SyncNotes](github.com/zacze/syncnotes)
+  - [CoNote](github.com/zacze/conote)
  
 - 🌱 I’m currently learning ...
   - Computer Vision
