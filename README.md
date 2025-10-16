@@ -3,8 +3,8 @@
 ### I'm ZacZe.
 
 - 🔭 I’m currently working on ...
-  - [HandUX](github.com/zacze/handux)
-  - [CoNote](github.com/ZacZe/conote)
+  - [HandUX](https://github.com/zacze/handux)
+  - [CoNote](https://github.com/ZacZe/conote)
  
 - 🌱 I’m currently learning ...
   - Computer Vision
