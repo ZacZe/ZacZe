@@ -5,8 +5,10 @@
 - 🔭 I’m currently working on ...
   - [HandUX](https://github.com/zacze/handux)
   - [CoNote](https://github.com/ZacZe/conote)
+  - [Wii Menu Portfolio](https://github.com/ZacZe/wii-menu-portfolio)
  
 - 🌱 I’m currently learning ...
+  - PCB Designing
   - Computer Vision
   - Robotics
 
