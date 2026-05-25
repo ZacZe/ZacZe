@@ -1,8 +1,8 @@
-# 👋 Welcome to My Dev Space!
+# 👋 Welcome to my GitHub Portfolio!
 
 <div align="center">
 
-### I'm **ZacZe** – Builder • Creator • Tech Enthusiast
+### I'm **ZacZe** - Programmer • Creator • Tech Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/ZacZe?label=Follow&style=social)](https://github.com/ZacZe)
 [![GitHub Stars](https://img.shields.io/github/stars/ZacZe?style=social)](https://github.com/ZacZe?tab=repositories)
@@ -17,9 +17,10 @@ I'm passionate about creating innovative projects at the intersection of hardwar
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[HandUX](https://github.com/zacze/handux)** | Gesture-based user interface | 🚀 Active |
-| **[CoNote](https://github.com/ZacZe/conote)** | Collaborative note-taking platform | 📝 Active |
-| **[Wii Menu Portfolio](https://github.com/ZacZe/wii-menu-portfolio)** | Nostalgic interactive portfolio | ✨ Showcasing |
+| **[HandUX](https://github.com/zacze/handux)** | Gesture-based user interface | Complete |
+| **[DriveWeather](https://github.com/HakimM16/Weather-App)** | Weather, map routing app | Complete |
+| **[Wii Menu Portfolio](https://github.com/ZacZe/wii-menu-portfolio)** | Nostalgic interactive portfolio | WIP |
+| **[OLED Clock](https://github.com/ZacZe/OLED-Clock-1)** | Microcontroller-based clock, | WIP |
 
 ---
 
@@ -52,31 +53,12 @@ I'm passionate about creating innovative projects at the intersection of hardwar
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![ZacZe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZacZe&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 💡 What I Love
-
-- 🎨 **Design & UX** – Creating intuitive, beautiful interfaces
-- 🔌 **Hardware Integration** – Bridging digital and physical worlds
-- 🤝 **Collaboration** – Building cool things with awesome people
-- 📚 **Learning** – Constantly exploring new technologies
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
 
 [**GitHub**](https://github.com/ZacZe) • 
-[**Portfolio**](https://github.com/ZacZe/wii-menu-portfolio) • 
+[**Portfolio**](https://zacze.github.io) • 
 [**Issues?**](https://github.com/ZacZe/ZacZe/issues)
 
 </div>
